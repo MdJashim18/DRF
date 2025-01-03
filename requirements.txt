@@ -1,0 +1,13 @@
+asgiref
+cmake
+crispy-bootstrap5
+Django
+django-crispy-forms
+django-environ
+django-filter
+djangorestframework
+pillow
+setuptools
+sqlparse
+tzdata
+wheel
